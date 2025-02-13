@@ -2,6 +2,7 @@
 Clear write-ups of many different CTF challenges
 
 <sup><sup>(the links here will direct you to my MEDIUM address)</sup></sup>
+* [Lo-Fi](https://arslanben.medium.com/tryhackme-lo-fi-writeup-25d8561683f1)
 * [The Sticker Shop](https://arslanben.medium.com/tryhackme-the-sticker-shop-writeup-3cb85d7b89cd)
 * [Hammer](https://arslanben.medium.com/tryhackme-hammer-writeup-a7c73db16ebc)
 * [U.A. High School](https://arslanben.medium.com/tryhackme-u-a-high-school-writeup-3e87da46c81e)
